@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Shivam Giri<br>I'm currently working on a social network application<br>I'm looking for devs who can collab<br>I'm currently learning JavaScript<br>
+I'm Shivam Giri<br>I'm currently working on a social network application<br>I'm looking for devs who can collab<br>I'm currently learning JavaScript<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamgiri01) 
